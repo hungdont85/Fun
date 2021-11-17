@@ -55,7 +55,7 @@ minima:
 # Build settings
 theme: minima
 
-baseurl: "/st0rmNT85.github.io"
+baseurl: "/st0rmnt85.github.io"
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
