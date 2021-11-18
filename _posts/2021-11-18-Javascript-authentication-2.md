@@ -4,7 +4,7 @@ title: javascript authentication 2
 ---
 
 Challenge này cần view source, đọc code từ hàm `login.js` để hiểu được flow của hàm này.
-<% highlight ruby %>
+{% highlight ruby %}
 function connexion(){
     var username = prompt("Username :", "");
     var password = prompt("Password :", "");
@@ -27,7 +27,7 @@ function connexion(){
         }
     }
 }
-<% endhighlight %>
+{% endhighlight %}
 
 code cấp `array` chứa username và pass.
 
