@@ -5,6 +5,7 @@ title: JS - Authentication (rootme)
 Challenge này tương tự challenge trước , cũng F12 để mò
 
 Sẽ có file `login.js` để vào xem code
+
 {% highlight ruby %}
 function Login(){
 	var pseudo=document.login.pseudo.value;
@@ -17,5 +18,5 @@ function Login(){
 	    alert("Mauvais mot de passe / wrong password"); 
 	}
 }
-{% endihighlight %}
+{% endhighlight %}
 giá trị login được lấy từ 2 biên  `pseudo` và `password`.
