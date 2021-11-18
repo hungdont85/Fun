@@ -2,7 +2,7 @@
 layout: post
 title: JS - Authentication (rootme)
 ---
-Challenge này tương tự challenge trước ~ cũng F12 để mò
+Challenge này tương tự challenge trước , cũng F12 để mò
 
 Sẽ có file `login.js` để vào xem code
 {% highlight ruby %}
