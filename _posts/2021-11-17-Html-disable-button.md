@@ -10,4 +10,4 @@ code ở f12:
 <input disabled type="text" name="auth-login" value="" />
 <input disabled type="submit" value="Member access" name="authbutton" />
 {% endhighlight %}
-xoá `disable` => `` 
+xoá `disable` và  
