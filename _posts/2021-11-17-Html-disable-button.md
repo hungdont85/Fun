@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTml - disable button
+title: Hml - disable button
 ---
 
 Challenge này sử dụng devtool của browser để enable form lên
