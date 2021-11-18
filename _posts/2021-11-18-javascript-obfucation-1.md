@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: javascript obfucation 1
 ---
 View source challenge thì có script để verify.
