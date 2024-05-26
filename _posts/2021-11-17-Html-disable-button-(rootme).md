@@ -11,4 +11,4 @@ code ở f12:
 <input disabled type="submit" value="Member access" name="authbutton" />
 {% endhighlight %}
 
-xoá `disabled` và reload lại trang.
+xoá `disabled` và reload trang để thực hiện chỉnh sửa.
