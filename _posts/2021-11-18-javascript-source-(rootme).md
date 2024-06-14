@@ -13,3 +13,5 @@ function login(){
 		}
 	    }
 {% endhighlight %}
+
+theo dõi request, ta thấy user endpoint /web-client/ch9/login.js. Tiến hành đọc file này vào lấy user, pass.
