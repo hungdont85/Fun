@@ -4,6 +4,8 @@ title: JS - Authentication (rootme)
 ---
 Challenge này tương tự challenge trước , cũng F12 để mò
 
+hoặc bắt request lúc bấm nút login thì server trả về dạng link: http://challenge01.root-me.org/web-client/ch9/login.js
+
 Sẽ có file `login.js` để vào xem code
 
 {% highlight ruby %}
@@ -19,4 +21,4 @@ function Login(){
 	}
 }
 {% endhighlight %}
-giá trị login được lấy từ 2 biên  `pseudo` và `password`.
+giá trị login được lấy từ 2 biến  `pseudo` và `password`.

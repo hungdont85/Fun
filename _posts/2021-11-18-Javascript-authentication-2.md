@@ -29,9 +29,9 @@ function connexion(){
 }
 {% endhighlight %}
 
-code cấp `array` chứa username và pass.
+code cấp mảng chứa username và pass.
 
-Vòng `For` chạy để lấy các phần tử trong array ra => đem so sánh với username người dùng nhập vào => Nếu không tồn tại trong `array` thì thực hiện thứ trong hàm `if` => tách array bằng hàm `split`.
+Vòng For load theo từng kí tự của chuỗi TheLists. Dùng split tách chuỗi thành các khúc phân tách bằng dấu 2 chấm, phần trước là user, phần sau là pass
 
 
 
